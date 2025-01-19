@@ -1,0 +1,164 @@
+{
+    "products": [
+      {
+        "product_id": "001",
+        "name": "Smartphone Pro X",
+        "description": "A high-end smartphone with a 6.7-inch OLED display offering vibrant colors and deep contrasts. It comes with 128GB of storage and features an advanced camera system, capable of capturing stunning photos in low light and featuring software enhancements for professional-grade results.",
+        "price": 999.99,
+        "availability": "In stock",
+        "category": "Electronics"
+      },
+      {
+        "product_id": "002",
+        "name": "Bluetooth Noise-Cancelling Headphones",
+        "description": "Wireless headphones designed to deliver an immersive audio experience. Equipped with active noise cancelling technology to eliminate ambient sounds, these headphones provide up to 30 hours of battery life. Perfect for long journeys or focused work sessions.",
+        "price": 199.99,
+        "availability": "In stock",
+        "category": "Furniture"
+      },
+      {
+        "product_id": "003",
+        "name": "Ultra-thin Laptop",
+        "description": "A sleek, lightweight laptop that blends performance and portability. Featuring a 14-inch display and powered by an Intel i7 processor with 16GB RAM, it handles multitasking effortlessly. Ideal for both professionals on the go and creative enthusiasts.",
+        "price": 1299.99,
+        "availability": "Out of stock",
+        "category": "Computers"
+      },
+      {
+        "product_id": "004",
+        "name": "4K Ultra HD Smart TV",
+        "description": "Experience stunning 4K visuals on this 65-inch Smart TV, complete with integrated streaming capabilities. Enjoy a seamless viewing experience with HDR support and smart voice controls, making your home entertainment more interactive and enjoyable.",
+        "price": 799.99,
+        "availability": "In stock",
+        "category": "Home Entertainment"
+      },
+      {
+        "product_id": "005",
+        "name": "Refrigerator with Water Dispenser",
+        "description": "An energy-efficient refrigerator equipped with a modern water dispenser and ice maker. It's designed to maintain optimal freshness and support versatile storage options with adjustable shelves and humidity-controlled drawers.",
+        "price": 1199.99,
+        "availability": "In stock",
+        "category": "Appliances"
+      },
+      {
+        "product_id": "006",
+        "name": "Espresso Coffee Machine",
+        "description": "Transform your kitchen into a coffeehouse with this compact espresso machine featuring an intuitive interface. It includes a built-in steam wand for perfectly frothed milk and programmable settings to customize your brew strength and temperature.",
+        "price": 249.99,
+        "availability": "In stock",
+        "category": "Kitchen Appliances"
+      },
+      {
+        "product_id": "007",
+        "name": "Cordless Vacuum Cleaner",
+        "description": "Effortlessly clean your home with this lightweight cordless vacuum, featuring a detachable handheld unit for quick spot cleaning. Equipped with a powerful motor for various surfaces, it’s ideal for both carpeted and hard floors.",
+        "price": 149.99,
+        "availability": "In stock",
+        "category": "Home Appliances"
+      },
+      {
+        "product_id": "008",
+        "name": "Electric Mountain Bike",
+        "description": "Explore new terrains with this all-terrain electric bike, featuring a robust 500W motor. With a 40-mile range on a single charge, it’s perfect for city commuting or adventurous trails. Comes with a durable frame and responsive suspension system.",
+        "price": 1499.99,
+        "availability": "Pre-order",
+        "category": "Outdoor"
+      },
+      {
+        "product_id": "009",
+        "name": "Camping Tent 4-Person",
+        "description": "Designed for outdoor enthusiasts, this waterproof family tent offers easy setup with its color-coded poles. The spacious interior fits up to four people and includes mesh panels for ventilation and a rainfly for weather protection.",
+        "price": 199.99,
+        "availability": "In stock",
+        "category": "Outdoor"
+      },
+      {
+        "product_id": "010",
+        "name": "Adjustable Dumbbells Set",
+        "description": "A versatile addition to any home gym, this dumbbell set allows for quick weight adjustments from 5 to 50 lbs. Each dumbbell features an ergonomic handle, ensuring comfort and safety during intense workouts.",
+        "price": 249.99,
+        "availability": "In stock",
+        "category": "Electronics"
+      },
+      {
+        "product_id": "011",
+        "name": "Yoga Mat with Alignment Lines",
+        "description": "Enhance your practice with this non-slip yoga mat that includes alignment markers for precise postures. Made from eco-friendly materials, it provides excellent cushioning and support for a variety of exercises.",
+        "price": 39.99,
+        "availability": "In stock",
+        "category": "Fitness"
+      },
+      {
+        "product_id": "012",
+        "name": "Leather Office Chair",
+        "description": "Upgrade your workspace with this ergonomic office chair featuring plush leather upholstery. Designed with lumbar support and an adjustable height feature to promote comfort and healthy posture during long hours of work.",
+        "price": 299.99,
+        "availability": "In stock",
+        "category": "Furniture"
+      },
+      {
+        "product_id": "013",
+        "name": "Modern Bookshelf",
+        "description": "Add a touch of elegance to any room with this contemporary bookshelf, showcasing a sleek design with five adjustable shelves. Perfect for displaying books, decorative objects, or organizing essentials with style.",
+        "price": 129.99,
+        "availability": "Out of stock",
+        "category": "Furniture"
+      },
+      {
+        "product_id": "014",
+        "name": "Smart Home Security Camera",
+        "description": "Secure your home with this indoor smart security camera, offering real-time alerts and motion detection. It features night vision capabilities and integrates seamlessly with other smart home devices for easy monitoring.",
+        "price": 89.99,
+        "availability": "In stock",
+        "category": "Home Security"
+      },
+      {
+        "product_id": "015",
+        "name": "Wireless Router with Extended Range",
+        "description": "Enhance your home network with this dual-band wireless router, designed for extended range and fast connectivity. Includes parental controls and guest access management for a secure browsing experience.",
+        "price": 109.99,
+        "availability": "In stock",
+        "category": "Networking"
+      },
+      {
+        "product_id": "016",
+        "name": "Graphic Design Tablet",
+        "description": "Unleash your creativity with this graphic design tablet, featuring a pressure-sensitive pen for precise control. It offers customizable buttons and a large drawing area, perfect for artists of all skill levels.",
+        "price": 399.99,
+        "availability": "In stock",
+        "category": "Computers"
+      },
+      {
+        "product_id": "017",
+        "name": "Men's Running Shoes",
+        "description": "Engineered for performance, these men's running shoes offer a lightweight build with breathable mesh fabric. The cushioned sole provides excellent support and shock absorption, ideal for runners seeking comfort and speed.",
+        "price": 89.99,
+        "availability": "In stock",
+        "category": "Apparel"
+      },
+      {
+        "product_id": "018",
+        "name": "Women's Winter Jacket",
+        "description": "Stay warm in style with this insulated winter jacket, featuring a detachable hood and a water-resistant exterior. Its tailored fit and cozy lining make it a fashionable choice for cold weather protection.",
+        "price": 149.99,
+        "availability": "In stock",
+        "category": "Apparel"
+      },
+      {
+        "product_id": "019",
+        "name": "Organic Skincare Set",
+        "description": "Indulge your skin with this set of organic skincare products, including a gentle cleanser, refreshing toner, and hydrating moisturizer. Formulated with natural ingredients, it's ideal for promoting healthy, radiant skin.",
+        "price": 74.99,
+        "availability": "In stock",
+        "category": "Beauty"
+      },
+      {
+        "product_id": "020",
+        "name": "Aromatherapy Essential Oil Diffuser",
+        "description": "Create a serene atmosphere with this ultrasonic essential oil diffuser, featuring customizable LED lights and timer settings. It's perfect for enhancing relaxation and improving air quality with your favorite scents.",
+        "price": 39.99,
+        "availability": "In stock",
+        "category": "Home"
+      }
+    ]
+  }
